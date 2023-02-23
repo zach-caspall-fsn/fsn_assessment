@@ -1,2 +1,2 @@
-# fsn_assessment
-Shopping cart assessment written in php
+# fsn_shopping_cart_2
+Redoing the fsn coding assessment in php
